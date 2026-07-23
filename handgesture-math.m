@@ -253,5 +253,3 @@ xlabel('X'); ylabel('Y'); zlabel('Z');
 legend(finger_names, 'Location', 'bestoutside');
 view(45,20); grid on; axis equal;
 hold off;
-
-fprintf('Simulasi lengan dan tangan robot humanoid 5 jari selesai.\n');
